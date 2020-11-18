@@ -1,0 +1,5 @@
+ For Postgres
+DATABASE_URL=postgresql://deploy:deploy@127.0.0.1/myapp
+
+SECRET_KEY_BASE=0e6639ef44efc72c133c0cb60843c607ae2f9e27ce76d07989c7b3e2710e329fdc8695964622c431ecdd26063a14409faae65897cf2e102e96f3763d89eae74c
+
